@@ -1,0 +1,13 @@
+{
+  "name": "Flickable.js",
+  "repo": "p-baleine/Flickable.js",
+  "version": "1.0.4",
+  "description": "Flickable: A Zepto Plugin to Enable Touch Gestures on Any HTML Element",
+  "keywords": ["Flickable", "zepto", "touch"],
+  "dependencies": {},
+  "development": {},
+  "main": "src/zepto.flickable.min.js",
+  "scripts": [
+    "src/zepto.flickable.min.js"
+  ]
+}
